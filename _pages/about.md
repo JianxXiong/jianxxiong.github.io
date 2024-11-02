@@ -37,3 +37,6 @@ I am a graduate student in School of Computer Science at Fudan University, super
 # 📖 Educations
 - *2024.09 - now*, School of Computer Science, Fudan University. 
 - *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University. 
+
+# 😀 Teaching
+- *Spring 2025(coming soon), Machine Learning System, School of Computer Science@Fudan
