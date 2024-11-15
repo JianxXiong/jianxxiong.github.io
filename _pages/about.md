@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student in School of Computer Science at Fudan University, supervised by [Prof. Dejing Dou](https://faculty.fudan.edu.cn/DejingDou/zh_CN/index.htm). I obtained my B.Eng degree from College of Computer Science and Software Engineering at Hohai University in Jun. 2024.
+I am a graduate student in School of Computer Science at Fudan University, supervised by [Prof. Dejing Dou](https://faculty.fudan.edu.cn/DejingDou/zh_CN/index.htm). Before that, I obtained my B.Eng degree from College of Computer Science and Software Engineering at Hohai University in Jun. 2024 and I was admitted to Fudan University without entrance examination.
 
 # 🔥 News
 - *now*: Wish you a good day. 
