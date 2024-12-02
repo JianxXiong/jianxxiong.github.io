@@ -40,7 +40,7 @@ My research interests include: Mutimodal Large Language Model, trustworthy AI.
 
 # 📖 Educations
 - *2024.09 - now*, School of Computer Science, Fudan University. 
-- *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University. 
+- *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University(Rank: 1st).
 
 # 😀 Teaching
 - Spring *2025(coming soon)*, Machine Learning System, School of Computer Science@Fudan, TA
