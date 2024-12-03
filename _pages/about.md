@@ -33,7 +33,7 @@ My research interests include: Mutimodal Large Language Model, trustworthy AI.
 - *2022.10* First Prize of Jiangsu Province in China Undergraduate Mathematical Contest In Modeling.
 - *2022.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
 - Honors from Hohai University(Excellent Student, Excellent Student Cadre, Excellent Student Pacesetter).
-- Scholarships from Hohai University(Academic Excellence, Academic Progress, Technology and Innovation, Spiritual, Excellence in Social Work).
+- Scholarships from Hohai University(Academic Excellence, Technology and Innovation, Spiritual, Excellence in Social Work).
 
 # 📘 Patent
 - 熊健, 张靖宇, 丁健莉. 一种圆形无人机编队的调整方法, 国家发明专利, 202211637879.1
