@@ -25,6 +25,7 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 - *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University!
 
 # 🎖 Honors and Awards
+- *2024.11* Outstanding Student Support Award Scheme for Master's Degree Students.
 - *2024.06* Charismatic graduate of Hohai University.
 - *2023.08* Second Prize in the National Finals in China Software Cup. 
 - *2023.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
