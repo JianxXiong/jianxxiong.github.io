@@ -21,8 +21,7 @@ I am a graduate student in School of Computer Science at Fudan University, super
 
 My research interests include: Mutimodal Large Language Model, Explainable AI, Trustworthy AI.
 # 🔥 News
-- *now*: Wish you a good day. 
-- *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University!
+- *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University with my bachelor degree!
 
 # 🎖 Honors and Awards
 - *2024.06* Charismatic graduate of Hohai University.
