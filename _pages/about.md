@@ -47,7 +47,7 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 # 😀 Teaching
 - Spring *2025(coming soon)*, Machine Learning System, School of Computer Science@Fudan, TA
 
-# 🛠️Skills
+# 🛠️ Skills
 - Python(Pytorch, transformers, deepspeed and etc.)
 - Java(SpringBoot, MyBatis, MySQL, Redis and etc.)
 - HTML, CSS, JavaScript
