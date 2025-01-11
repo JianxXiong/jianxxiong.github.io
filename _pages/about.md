@@ -37,14 +37,17 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 # 📘 Patent
 - 熊健, 张靖宇, 丁健莉. 一种圆形无人机编队的调整方法, 国家发明专利, 202211637879.1
 
-# 📖 Educations
+# 📖 Education
 - *2024.09 - now*, School of Computer Science, Fudan University. 
 - *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University(Rank: 1st).
+
+<!-- # 💻 Intern -->
+
 
 # 😀 Teaching
 - Spring *2025(coming soon)*, Machine Learning System, School of Computer Science@Fudan, TA
 
-# 💻 Skills
+# 🛠️Skills
 - Python(Pytorch, transformers, deepspeed and etc.)
 - Java(SpringBoot, MyBatis, MySQL, Redis and etc.)
 - HTML, CSS, JavaScript
