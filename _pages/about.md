@@ -44,8 +44,8 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 <!-- # 💻 Intern -->
 
 
-# 😀 Teaching
-- *2025'Spring*, Machine Learning System, TA, School of Computer Science, Fudan University.
+# 😀 Teaching Assistant
+- *2025'Spring*, Machine Learning System, School of Computer Science, Fudan University.
 
 # 🔨 Skills
 - Python(Pytorch, transformers, deepspeed and etc.)
