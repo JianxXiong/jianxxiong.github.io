@@ -35,7 +35,7 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 - Scholarships from Hohai University(Academic Excellence, Technology and Innovation, Spiritual, Excellence in Social Work).
 
 # 📘 Patent
-- 熊健, 张靖宇, 丁健莉. 一种圆形无人机编队的调整方法, 国家发明专利, 202211637879.1
+- Jian Xiong, Jingyu Zhang, Jianli Ding. A method of adjusting a circular UAV formation, China invention patent, application number: 202211637879.1.
 
 # 📖 Education
 - *2024.09 - now*, School of Computer Science, Fudan University. 
