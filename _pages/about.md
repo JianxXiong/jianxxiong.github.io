@@ -30,8 +30,8 @@ I am a graduate student in School of Computer Science at Fudan University, super
 - *2023.05* Meritorious Winner in the Mathematical Contest In Modeling (MCM). 
 - *2022.10* First Prize of Jiangsu Province in China Undergraduate Mathematical Contest In Modeling.
 - *2022.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
-- Honors from Hohai University(Excellent Student, Excellent Student Cadre, Excellent Student Pacesetter).
-- Scholarships from Hohai University(Academic Excellence, Technology and Innovation, Spiritual, Excellence in Social Work).
+- Honors from Hohai University (Excellent Student, Excellent Student Cadre, Excellent Student Pacesetter).
+- Scholarships from Hohai University (Academic Excellence, Technology and Innovation, Spiritual, Excellence in Social Work).
 
 # 📘 Patent
 - Jian Xiong, Jingyu Zhang, Jianli Ding. A method of adjusting a circular UAV formation, China invention patent, application number: 202211637879.1.
