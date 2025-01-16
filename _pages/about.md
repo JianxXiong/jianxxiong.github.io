@@ -41,7 +41,7 @@ My research interests include: Mutimodal Large Language Model, Explainable AI, T
 - *2024.09 - now*, School of Computer Science, Fudan University. 
 - *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University(Rank: 1st).
 
-# 💻 Work
+# 💻 Work Experience
 - *2025.01 - now*, research intern at [Baidu Research](https://research.baidu.com) (Business Intelligence Lab), supervisor: Jingbo Zhou.
 
 
