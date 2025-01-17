@@ -41,7 +41,7 @@ I am a graduate student in School of Computer Science at Fudan University, super
 - *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University(Rank: 1st).
 
 # 💻 Work Experience
-- *2025.01 - now*, research intern at [Baidu Research](https://research.baidu.com) (Business Intelligence Lab), supervisor: Jingbo Zhou.
+- *2025.01 - now*, research intern at [Baidu Research](https://research.baidu.com) (Business Intelligence Lab), supervisor: [Jingbo Zhou](http://zhoujingbo.github.io).
 
 
 # 😀 Teaching Assistant
