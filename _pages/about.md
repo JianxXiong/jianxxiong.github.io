@@ -22,7 +22,7 @@ I am a graduate student in School of Computer Science at Fudan University, super
 <!-- # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University with my bachelor degree! -->
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.06* Charismatic graduate of Hohai University.
 - *2023.08* Second Prize in the National Finals in China Software Cup. 
 - *2023.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
@@ -33,21 +33,21 @@ I am a graduate student in School of Computer Science at Fudan University, super
 - Honors from Hohai University (Excellent Student, Excellent Student Cadre, Excellent Student Pacesetter).
 - Scholarships from Hohai University (Academic Excellence, Technology and Innovation, Spiritual, Excellence in Social Work).
 
-# 📘 Patent
+# Patent
 - Jian Xiong, Jingyu Zhang, Jianli Ding. A method of adjusting a circular UAV formation, China invention patent, application number: 202211637879.1.
 
-# 📖 Education
+# Education
 - *2024.09 - now*, School of Computer Science, Fudan University. 
 - *2020.09 - 2024.06*, College of Computer Science and Software Engineering, Hohai University(Rank: 1st).
 
-# 💻 Work Experience
+# Work Experience
 - *2025.01 - now*, research intern at [Baidu Research](https://research.baidu.com) (Business Intelligence Lab), supervisor: [Jingbo Zhou](http://zhoujingbo.github.io).
 
 
-# 😀 Teaching Assistant
+# Teaching Assistant
 - *2025'Spring*, Machine Learning System, School of Computer Science, Fudan University.
 
-# 🔨 Skills
+# Skills
 - Python(Pytorch, transformers, deepspeed and etc.)
 - Java(SpringBoot, MyBatis, MySQL, Redis and etc.)
 - HTML, CSS, JavaScript
