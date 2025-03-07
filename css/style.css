@@ -568,23 +568,4 @@ footer p {
         flex-direction: column;
         gap: 5px;
     }
-}
-
-/* 访问计数器样式 */
-.visitor-counter-container {
-    text-align: center;
-    padding: 15px 0;
-    background-color: var(--white);
-    border-top: 1px solid var(--medium-gray);
-}
-
-.visitor-counter {
-    margin: 0;
-    font-size: 0.95rem;
-    color: var(--dark-gray);
-}
-
-.visitor-counter #visit-count {
-    font-weight: bold;
-    color: var(--primary-color);
 } 
