@@ -10,10 +10,10 @@ main:
   #   url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/# honors-and-awards"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/# education"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
@@ -22,7 +22,7 @@ main:
   #   url: "/#-internships"
 
   - title: "Teaching Assistant"
-    url: "/#-teaching-assistant"
+    url: "/# teaching-assistant"
 
   # - title: "Skills"
   #   url: "/#-skills"
