@@ -345,7 +345,8 @@ main {
 }
 
 .education-card .supervisor {
-    color: var(--dark-gray);
+    color: var(--text-color) !important;
+    font-weight: bold !important;
     margin: 12px 0;
     display: flex;
     align-items: center;
