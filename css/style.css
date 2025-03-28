@@ -2,14 +2,14 @@
 :root {
     --primary-color: #3498db;
     --secondary-color: #2980b9;
-    --text-color: #333;
+    --text-color: #000;
     --light-gray: #f4f4f4;
     --medium-gray: #ddd;
-    --dark-gray: #666;
+    --dark-gray: #000;
     --white: #fff;
     --max-width: 1200px;
     --header-height: 80px;
-    --section-spacing: 60px;
+    --section-spacing: 40px;
 }
 
 * {
@@ -20,7 +20,7 @@
 
 body {
     font-family: 'Georgia', 'Times New Roman', serif;
-    line-height: 1.6;
+    line-height: 1.4;
     color: var(--text-color);
     background-color: var(--white);
 }
@@ -44,20 +44,20 @@ a:hover {
 h1, h2, h3 {
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
     font-weight: 600;
-    line-height: 1.3;
-    margin-bottom: 20px;
+    line-height: 1.2;
+    margin-bottom: 15px;
 }
 
 section {
     margin-bottom: var(--section-spacing);
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 section h2 {
     position: relative;
-    padding-bottom: 10px;
-    margin-bottom: 30px;
-    border-bottom: 2px solid var(--medium-gray);
+    padding-bottom: 5px;
+    margin-bottom: 12px;
+    border-bottom: none;
 }
 
 /* 头部样式 */
@@ -90,25 +90,25 @@ header {
 
 .profile-text .title {
     font-size: 1.1rem;
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 5px;
 }
 
 .profile-text .address {
     font-size: 1rem;
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 15px;
 }
 
 .title {
     font-size: 1.1rem;
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 5px;
 }
 
 .address {
     font-size: 1rem;
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 15px;
     word-wrap: break-word;
     overflow-wrap: break-word;
@@ -136,11 +136,12 @@ header {
 
 /* 导航栏样式 */
 nav {
-    background-color: var(--primary-color);
+    background-color: var(--white);
     position: sticky;
     top: 0;
     z-index: 100;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid var(--medium-gray);
 }
 
 nav ul {
@@ -156,14 +157,15 @@ nav li {
 nav a {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     display: block;
-    color: var(--white);
+    color: #000;
     padding: 15px 20px;
-    font-weight: 500;
+    font-weight: 700;
     transition: background-color 0.3s;
 }
 
 nav a:hover, nav a.active {
-    background-color: var(--secondary-color);
+    background-color: var(--light-gray);
+    color: var(--primary-color);
 }
 
 /* 主要内容区域样式 */
@@ -175,13 +177,14 @@ main {
 .research-areas {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 30px;
+    gap: 15px;
 }
 
 .research-area {
-    background-color: var(--light-gray);
+    background-color: var(--white);
     padding: 25px;
     border-radius: 8px;
+    border: 1px solid var(--medium-gray);
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -195,13 +198,16 @@ main {
 .publication-list {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 15px;
 }
 
 .publication {
     padding: 20px;
     border-left: 4px solid var(--primary-color);
-    background-color: var(--light-gray);
+    background-color: var(--white);
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
@@ -216,7 +222,7 @@ main {
 }
 
 .venue {
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 10px;
 }
 
@@ -239,14 +245,16 @@ main {
 }
 
 .paper-link:hover {
-    background-color: #eef5f9;
+    background-color: var(--white);
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
 }
 
 /* 项目区域 */
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 30px;
+    gap: 15px;
 }
 
 .project {
@@ -274,14 +282,14 @@ main {
 
 .project p {
     padding: 0 15px 15px;
-    color: var(--dark-gray);
+    color: #000;
 }
 
 .project-links {
     display: flex;
     justify-content: space-between;
     padding: 15px;
-    background-color: var(--light-gray);
+    background-color: var(--white);
     border-top: 1px solid var(--medium-gray);
 }
 
@@ -354,17 +362,16 @@ main {
 }
 
 .education-card .major {
-    color: var(--dark-gray);
+    color: #000;
     margin-bottom: 15px;
 }
 
 .education-card .period {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: var(--dark-gray);
-    font-weight: 600;
+    color: #000;
+    font-weight: normal;
     position: relative;
     padding-top: 10px;
-    border-top: 1px solid var(--medium-gray);
 }
 
 .education-card .supervisor {
@@ -383,7 +390,7 @@ main {
 
 .education-card .supervisor-info {
     font-size: 0.9em;
-    color: var(--dark-gray);
+    color: #000;
     margin-top: 4px;
     margin-left: 20px;
     font-style: italic;
@@ -399,15 +406,18 @@ main {
     flex-wrap: wrap;
     margin-bottom: 20px;
     padding: 15px;
-    background-color: var(--light-gray);
+    background-color: var(--white);
     border-left: 4px solid var(--primary-color);
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
     border-radius: 0 8px 8px 0;
 }
 
 .award-year {
     flex: 0 0 80px;
-    font-weight: 600;
-    color: var(--primary-color);
+    font-weight: normal;
+    color: #000;
 }
 
 .award-name {
@@ -418,8 +428,8 @@ main {
 
 /* 页脚样式 */
 footer {
-    background-color: var(--light-gray);
-    color: var(--dark-gray);
+    background-color: var(--white);
+    color: #000;
     padding: 30px 0;
     text-align: center;
     margin-top: 40px;
@@ -532,13 +542,16 @@ footer p {
 .patent-list {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 15px;
 }
 
 .patent {
     padding: 25px;
-    border-left: 4px solid #34a853; /* 使用绿色边框区分专利 */
-    background-color: var(--light-gray);
+    border-left: 4px solid #34a853;
+    background-color: var(--white);
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -550,7 +563,7 @@ footer p {
 
 .patent h3 {
     margin-bottom: 10px;
-    color: #34a853; /* 使用绿色标题区分专利 */
+    color: #34a853;
     font-size: 1.3rem;
 }
 
@@ -564,7 +577,7 @@ footer p {
     flex-wrap: wrap;
     gap: 15px;
     margin-bottom: 15px;
-    color: var(--dark-gray);
+    color: #000;
 }
 
 .patent-number {
@@ -598,7 +611,9 @@ footer p {
 }
 
 .patent-link:hover {
-    background-color: #e6f4e9; /* 淡绿色悬停效果 */
+    background-color: var(--white);
+    color: #34a853;
+    border: 1px solid #34a853;
 }
 
 /* 响应式设计调整 */
@@ -607,4 +622,93 @@ footer p {
         flex-direction: column;
         gap: 5px;
     }
+}
+
+/* 简化版块样式 */
+/* 简化的教育部分 */
+.education-simple {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.education-simple li {
+    margin-bottom: 8px;
+    padding-bottom: 0;
+}
+
+.education-simple li:last-child {
+    margin-bottom: 0;
+}
+
+.education-simple .edu-period {
+    font-weight: normal;
+    color: #000;
+    margin-right: 10px;
+    display: inline-block;
+    width: 100px;
+}
+
+.education-simple .edu-info {
+    color: var(--text-color);
+}
+
+/* 简化的专利部分 */
+.patents-simple {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.patents-simple li {
+    margin-bottom: 10px;
+    padding-bottom: 0;
+}
+
+.patents-simple .patent-date {
+    font-weight: normal;
+    color: #000;
+    margin-right: 10px;
+    display: block;
+    margin-bottom: 3px;
+}
+
+.patents-simple .patent-info {
+    display: block;
+    color: var(--text-color);
+    line-height: 1.4;
+}
+
+/* 简化的奖项部分 */
+.awards-simple {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.awards-simple li {
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+
+.awards-simple .award-year {
+    font-weight: normal;
+    color: #000;
+    margin-right: 10px;
+    display: inline-block;
+    min-width: 80px;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 768px) {
+    .education-simple .edu-period,
+    .awards-simple .award-year {
+        display: block;
+        margin-bottom: 5px;
+        width: auto;
+    }
+}
+
+p {
+    margin-bottom: 10px;
 } 

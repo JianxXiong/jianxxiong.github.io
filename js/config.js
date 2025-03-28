@@ -22,5 +22,5 @@ const siteConfig = {
     },
     
     // Navigation bar - will automatically hide nav links for hidden sections
-    showNavigation: true    // Show/hide entire navigation bar
+    showNavigation: false    // Show/hide entire navigation bar (默认隐藏)
 }; 
