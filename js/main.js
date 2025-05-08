@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (lastUpdated) {
         const currentMonth = new Date().getMonth(); // 0-11
-        lastUpdated.textContent = `${monthNames[currentMonth]} ${currentYear}`;
+        lastUpdated.textContent = `February 2025`;
     }
     
     // 更新版权年份
