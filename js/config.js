@@ -5,7 +5,7 @@
 const siteConfig = {
     // Personal information sections
     about: true,           // About Me section
-    research: true,       // Research Interests section
+    research: false,       // Research Interests section
     publications: false,    // Publications section
     projects: false,       // Research Projects section
     education: true,       // Education section
