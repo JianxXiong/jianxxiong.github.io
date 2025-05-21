@@ -68,7 +68,7 @@ function applySiteConfig() {
     
     // 应用各部分配置
     applyElementConfig('about', siteConfig.about);
-    applyElementConfig('research', siteConfig.research);
+    applyElementConfig('preprints', siteConfig.preprints);
     applyElementConfig('publications', siteConfig.publications);
     applyElementConfig('projects', siteConfig.projects);
     applyElementConfig('education', siteConfig.education);
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (lastUpdated) {
         const currentMonth = new Date().getMonth(); // 0-11
-        lastUpdated.textContent = `February 2025`;
+        lastUpdated.textContent = `May 2025`;
     }
     
     // 更新版权年份
