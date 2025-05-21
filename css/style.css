@@ -633,6 +633,7 @@ footer p {
     margin-right: 10px;
     display: inline-block;
     width: 100px;
+    white-space: nowrap;
 }
 
 .education-simple .edu-info {
@@ -702,4 +703,12 @@ p {
 /* 预印本区域 */
 .preprint-list, .preprint, .preprint h3, .preprint-links {
     all: unset;
+}
+
+.preprint h3 {
+    margin-bottom: 4px;
+}
+
+.preprint p {
+    margin-bottom: 2px;
 } 
