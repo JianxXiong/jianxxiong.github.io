@@ -5,7 +5,7 @@
 const siteConfig = {
     // Personal information sections
     about: true,           // About Me section
-    preprints: false,       // Preprints section
+    preprints: true,       // Preprints section
     publications: false,    // Publications section
     projects: false,       // Research Projects section
     education: true,       // Education section

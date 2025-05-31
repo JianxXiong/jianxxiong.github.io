@@ -203,7 +203,6 @@ main {
 }
 
 .authors {
-    font-style: italic;
     margin-bottom: 8px;
 }
 
@@ -571,7 +570,7 @@ footer p {
 }
 
 .patent-date {
-    font-style: italic;
+    
 }
 
 .patent-description {
