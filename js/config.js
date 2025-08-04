@@ -15,7 +15,7 @@ const siteConfig = {
     // Contact information in header
     contactInfo: {
         email: true,        // Email address link
-        github: false,      // GitHub profile link - now hidden
+        github: true,      // GitHub profile link - now hidden
         googleScholar: false, // Google Scholar profile link - now hidden
         cv: true,           // CV/Resume PDF link
         // Add more contact options here if needed in the future
