@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Jian Xiong, a second-year master student at Fudan University, where I’m very fortunate to be advised by Professor [Dejing Dou](https://ix.cs.uoregon.edu/~dou/index.html). I finished my undergraduate study at College of Computer Science and Software Engineering, Hohai University.
+I am Jian Xiong, a second-year master student at Fudan University, where I’m very fortunate to be advised by Professor [Dejing Dou](https://ix.cs.uoregon.edu/~dou/index.html). I finished my undergraduate study at [College of Computer Science and Software Engineering](https://cies.hhu.edu.cn/), [Hohai University](https://www.hhu.edu.cn/).
 
 My research interests include reinforcement learning for LLMs and LLM Agent. Feel free to reach out if you want to chat with research.
