@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-26'
 papers:
   ePOXfkAAAAAJ:u-x6o8ySG0sC:
-    citations: 1
-    title: 'UGround: Towards Unified Visual Grounding with Unrolled Transformers'
+    citations: 2
+    title: 'Uground: Towards unified visual grounding with unrolled transformers'
     year: '2025'
   ePOXfkAAAAAJ:u5HHmVD_uO8C:
     citations: 3
