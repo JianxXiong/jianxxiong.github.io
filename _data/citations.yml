@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-06'
 papers:
+  ePOXfkAAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution'
+    year: '2026'
   ePOXfkAAAAAJ:u-x6o8ySG0sC:
-    citations: 2
+    citations: 3
     title: 'Uground: Towards unified visual grounding with unrolled transformers'
     year: '2025'
   ePOXfkAAAAAJ:u5HHmVD_uO8C:
